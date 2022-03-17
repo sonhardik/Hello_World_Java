@@ -6,7 +6,7 @@ public class HelloWorld {
      System.out.println("Hello, Guys...Happy weekend");
      System.out.println("Hello, Guys...Happy weekend"); 
      System.out.println("Hello, Guys...Happy Wednesday");
-     System.out.println("Hello, Guys...Happy weekend");
+     System.out.println("Hello, Guys...Happy Thrusday");
     
       
   }
